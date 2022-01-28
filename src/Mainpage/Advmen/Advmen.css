@@ -1,0 +1,47 @@
+
+.Advmen_main {
+    height: 325px;
+    width: 335px;
+    background: white;
+    margin: 15px;
+    padding:1px 7px 1px;
+    resize:none;
+    position: static;
+  }
+
+.Advmen_header{
+    padding: 15px;
+    font-size: 21px;
+    line-height:27px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Advmen_body{
+
+  padding-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+}
+.Advmen_footer{
+ padding: 15px;
+ color: rgb(74,154,168);
+ cursor: pointer;
+ 
+}
+
+a:hover{
+  color:orange;
+  text-decoration: underline;
+
+  
+}
+
+.fourtys_child{
+    width: 130px;
+    height: 95px;
+    margin: 5px;
+    cursor: pointer;
+  }
