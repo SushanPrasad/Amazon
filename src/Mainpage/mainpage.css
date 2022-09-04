@@ -1,0 +1,37 @@
+.main{
+    width: 98.9vw;
+    height: 100%;
+   background-repeat: no-repeat;
+background-color:rgb(2,147,209);
+background-size: cover;
+margin-top: 0px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;   
+max-width: 350vw;
+
+}
+
+.all{
+    display: flex;
+    position: relative;
+    object-fit: contain;
+    object-position: 100%;
+    background-repeat: no-repeat;
+    width:165vw ;
+    height: 47vh;
+    max-width: 250vw;
+
+    /* below has fixed four product */
+
+    overflow:hidden ;
+    flex-flow: row wrap;
+
+
+}
+.first_image {
+    width: 100%;
+    height: 410px;
+}

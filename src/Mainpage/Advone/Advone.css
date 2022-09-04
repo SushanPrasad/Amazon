@@ -1,0 +1,66 @@
+
+.Advone_main {
+    height: 325px;
+    width: 335px;
+    background: #B9BDC0;
+    margin: 15px;
+    padding:1px 7px 1px;
+    resize:none;
+    position: static;
+    margin-top: 14px;
+
+  }
+
+.Advone_header{
+    padding: 15px;
+    font-size: 21px;
+    line-height:27px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Advone_body{
+
+  padding-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  
+  
+}
+
+.Advone_footer{
+ padding: 7px;
+ color: rgb(254, 254, 254);
+ cursor: pointer;
+ margin-top: -1px;
+ text-decoration: none;
+ 
+}
+
+
+.Advone_footer:hover {
+  color: red;
+  text-decoration: none;
+}
+
+
+a:hover{
+  color:orange;
+  text-decoration: underline;
+
+  
+}
+
+.four_child{
+  width: 130px;
+  height: 95px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.seee{
+  color: white;
+  text-decoration: none;
+  text-transform: none;
+}

@@ -1,0 +1,139 @@
+.line_head{
+    padding: 15px;
+    width: 1508px;
+    height: 300px;
+    background-color: #0293D1;
+    padding-left: 13px;
+    color:#B9BDC0;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-repeat: no-repeat;
+
+}
+.line_body{
+    display: flex;
+    width: 96vw;
+    height: 173px;
+    margin-top: 20px;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.cake_foot > a {
+  color: white;
+  text-decoration: none;
+}
+
+.hori {
+    margin: 0px 0px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 1px;
+    cursor: pointer;
+
+}
+
+
+.pie {
+    height: 333px;
+    width: 335px;
+    background:rgb(185,189,192); 
+    margin: 75px;
+    padding:1px 5px 1px;
+    resize:none;
+    position: static;
+
+  }
+
+.cake_head{
+    font-size: 13px;
+    line-height: 38px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 0px 0px 0px 20px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.cake{
+
+  padding-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  
+  
+}
+
+.cake_foot{
+font-size: 16px;
+padding: 10px;
+ color: rgb(74,154,168);
+ cursor: pointer;
+ 
+}
+
+a:hover{
+  color:orange;
+  text-decoration: underline;
+
+  
+}
+
+.cakepie{
+  width: 130px;
+  height: 101px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.three{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -13px;
+    margin-top: -7px;
+    background-color: #13A9E3;
+}
+
+.cakecoco{
+    height: 230px;
+    width: 280px;
+    
+}
+
+
+.cakechoco {
+
+    height: 230px;
+    width: 280px;
+    
+}
+
+.imag{
+  height: 27vh;
+  width: 99vw;
+  margin-left: -14px;
+  margin-top: -20px;
+}
+
+.im{
+  margin-top: 90px;
+  
+}
+
+
+.iiiii{
+  cursor: pointer;
+  width: 100%;
+  height: 164px;
+}
+
+.seemore{
+  color: white;
+  text-decoration: none;
+}
+
+

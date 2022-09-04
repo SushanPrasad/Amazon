@@ -1,0 +1,44 @@
+.footer{
+    width: 100vw;
+    height: 41px;
+    background-color:#232f3e;
+   color:gray;
+    display: flex;
+    cursor: pointer;
+    overflow-x:inherit;
+    text-decoration: none;
+
+
+
+}
+
+
+.foot{
+    padding: 9px;
+   margin-left: 25px;
+    text-align: center;
+    font-size: 14px;
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.foot > a {
+    color: gray;
+    text-decoration: none;
+    object-fit: cover;
+    font-size: 13px;
+    text-align: center;
+    justify-content: space-evenly;
+
+
+}
+.foot > a:hover{
+    color:white;
+    text-decoration: none;
+    object-fit: cover;
+    text-align: center;
+
+}
+
+

@@ -1,0 +1,55 @@
+.row{
+    margin-top: 624px;
+    padding: 10px 30px;
+    background-color:rgb(35,47,62) ;
+    color: #fff;
+    width: 96vw;
+    height: 30h;
+    display: flex;
+    flex-wrap: wrap;
+    font-family:Arial, Helvetica, sans-serif;
+    object-fit: cover;
+}
+#colll{
+     margin-top: 20px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 10px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    max-height: 100vh;
+
+}
+
+.column{
+    margin-left: 100px;
+    }
+
+
+    .suji{
+     
+        margin: 0 0 20px;
+        font-size: 18px;
+        
+    }
+
+
+
+    .columnjii {
+        justify-content: center;
+        margin-top: 40px;
+        margin-left: 360px;
+    }
+
+    
+    
+ 
+
+
+.col{
+    margin-top: -20px;
+    color: grey;
+    margin-left: -100px;
+}
